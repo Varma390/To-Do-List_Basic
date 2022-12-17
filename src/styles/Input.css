@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 30%;
+    margin: 20vh auto;
+    background-color: rgb(196, 219, 219);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 10px 10px 5px lightblue;
+    border-radius:25px;
+    padding: 2rem;
+}
+.box1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.item {
+    margin-right: 10px;
+}

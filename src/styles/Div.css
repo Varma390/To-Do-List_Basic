@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.box {
+    width: 80%;
+}
+.one {
+    margin-right: 10px;
+}
